@@ -60,10 +60,15 @@ documentation for more information on the layout and purpose of the folders.
 Other libraries and modules used in this application are as follows:
 
 Flask (http://flask.pocoo.org)
+
 SQLAlchemy (https://www.sqlalchemy.org/)
+
 Oauth2client (https://oauth.net)
+
 Google Oauth2 Login (https://console.developers.google.com)
+
 Apache2 (https://help.ubuntu.com/lts/serverguide/httpd.html)
+
 Xip.io (http://xip.io/)
 
 The folder layout for the app was taken from a Digital Ocean site which 
